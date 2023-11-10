@@ -19,6 +19,7 @@ Group: SE-2220
 
 Team members: Darkhan Omirbay,
 Rustem Zhakup.
+Temirlan Daulet.
 
 
 Teaching Assistant: Zhanbolat Mansur. 
